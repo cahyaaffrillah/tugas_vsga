@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".Tampil_Nama"></activity>
+        <activity android:name=".List_View" />
+        <activity android:name=".Kalkulator">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
